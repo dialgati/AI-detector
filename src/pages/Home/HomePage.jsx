@@ -7,8 +7,6 @@ function HomePage() {
   return (
     <div>
       <Dashboard />
-      <Feeds />
-      <ProjectTables />
     </div>
   );
 }
